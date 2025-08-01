@@ -77,8 +77,16 @@ You can install each operating system and pfSense one by one using the tutorials
 
 ---
 
-## 🔄 Next Step
+## Firewall Configuration:
 
-After completing the VM installations, we proceed to configure the firewall settings in pfSense. The firewall configuration will be explained **step-by-step with screenshots** in the next section.
+Go to this link download the pfsense firewall: [Download pfSense Community Edition](https://www.pfsense.org/download/)
+<img width="940" height="421" alt="image" src="https://github.com/user-attachments/assets/7aa918b4-13e6-4229-9784-9ae8299eef6f" />
 
+After that open the VirtualBox. 
+
+<img width="940" height="470" alt="image" src="https://github.com/user-attachments/assets/a0e287c0-cea3-471b-9213-6344fe15acf7" />
+
+Then click on the New Button. Look like this.
+
+<img width="940" height="607" alt="image" src="https://github.com/user-attachments/assets/9bb8f05d-81a2-43c8-8680-5075e9eddacf" />
 
