@@ -72,8 +72,7 @@ This section explains how the virtual lab environment was built using VirtualBox
 
 You can install each operating system and pfSense one by one using the tutorials available on my YouTube channel.
 
-👉 **Watch Installation Videos Here:** [Visit My YouTube Channel](#)  
-*(Replace `#` with your actual channel link if available)*
+👉 **Watch Installation Videos Here:** [Visit My YouTube Channel](https://www.youtube.com/@spidergk108)  
 
 ---
 
@@ -95,21 +94,21 @@ After that fill the all details like Name of work , Path of folder where you wan
 <img width="940" height="603" alt="image" src="https://github.com/user-attachments/assets/0d8dce83-ff83-4d55-8415-75daf5fa2789" />
 
 For the individual environment it was take default configuration like RAM 1gb hard disk 16 gb. 
-Then click on the <b>finish button.</b>
+Then click on the **finish button.**
 
 <img width="940" height="604" alt="image" src="https://github.com/user-attachments/assets/24a25be7-5001-4f5e-9acb-eac951646388" />
 
-After Click on the <b>setting Icon.</b>
+After Click on the **setting Icon.**
 
 <img width="940" height="500" alt="image" src="https://github.com/user-attachments/assets/e5008c6b-a89e-4b6a-a2a9-832a663a4b71" />
 
-And do some configuration in <b>network section.</b>
+And do some configuration in **network section.**
 
 In the network section there are four Adapter option. So click on the first adapter and then enable it and click on attached to and select the Bridge Adapter. Because it adapter connecting to External network with WAN.
 
 <img width="940" height="591" alt="image" src="https://github.com/user-attachments/assets/921a3bdd-9d4f-42ca-a241-af79b21d3c4c" />
 
-Click on the <b>Adapter 2. </b>
+Click on the **Adapter 2.**
 
 Enable Network adapter and then click on the Attached to Internal Network. Because it is internal network form the adapter connect all internal Server and computer. Like kali Linux and Windows 10.
 
