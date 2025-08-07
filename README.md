@@ -207,3 +207,17 @@ Then go to the firewall section and set the Rules of firewalls.
 Click on the add button. 
 Set the Rule which is allow the access the private network.
 
+## DHCP:- Dynamic Host Configuration Protocol
+
+You I am going the configuration the DHCP so you own the internal server like kali machine. So automatically assigned the IP.
+For the Configuration go to the services options the go to the DHCP Server.
+<img width="602" height="280" alt="image" src="https://github.com/user-attachments/assets/aaf24fcd-1b25-4753-a760-474aa69e4a63" />
+
+Go to the Primary Address Pool and edit that like Subnet range, Address pool ranger it means which class of ip range you want. 
+<img width="602" height="295" alt="image" src="https://github.com/user-attachments/assets/cf6777d4-b1fa-487b-8548-80cb7ce231ec" />
+
+So now you can see all network inside the pfsense firewall internal network assigned it own IP. 
+<img width="602" height="186" alt="image" src="https://github.com/user-attachments/assets/ba5334d7-78b1-4a4b-8d86-317cb014c7c9" />
+
+
+
